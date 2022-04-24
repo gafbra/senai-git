@@ -23,3 +23,7 @@ git tag -a v1.0 -m "minha primeira tag" - Cria uma tag ou uma versão
 git tag- Para ver as tags criadas
 git show v1.0 - Para ver informações sobre uma tag específica
 git push origin --tags - enviei as versões para o repositório remoto.
+
+
+lembrei do comando: git commit
+lembrei do comando: git status
